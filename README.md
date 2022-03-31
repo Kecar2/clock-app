@@ -42,3 +42,7 @@ Users should be able to:
 ## Technologies I used
 
 - APIs, Axios, SCSS, BEM, Figma for the design files
+
+### GitHub Pages
+
+https://kecar2.github.io/clock-app/
